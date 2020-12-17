@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Negreanu_Anca_Lab6Context"
+    }
+  }
+}
